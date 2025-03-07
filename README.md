@@ -10,8 +10,7 @@ Here are some facts to get you to know me better:
 - 😄 Pronouns: he/him
 - 💬 Ask me about Music and Languages, I love them!
 
-Let's stay connected! 👇
-[https://www.linkedin.com/in/rodrigomalagonr/](https://www.linkedin.com/in/rodrigomalagonr/)
+Let's stay connected! 👉 [https://www.linkedin.com/in/rodrigomalagonr/](https://www.linkedin.com/in/rodrigomalagonr/)
 
 Or contact me at: [rodrigo.malagon.rodriguez@gmail.com](mailto:rodrigo.malagon.rodriguez@gmail.com)
 
