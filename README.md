@@ -1,7 +1,7 @@
 ## Hello, there 👋
 I'm Rodrigo, welcome to my GitHub profile!
 
-Here are some facts to get to know me better:
+Here are some facts to get to know me better :
 
 - 🔭 I’m currently working on Data Science and Analysis projects
 - 🌱 I recently finished a MSc. in  Geospatial Technologies
