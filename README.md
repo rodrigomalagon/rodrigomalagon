@@ -3,8 +3,8 @@ I'm Rodrigo, welcome to my GitHub profile!
 
 Here are some facts to get to know me better:
 
-- 🔭 I’m currently working on Data Analysis projects for ONGs and R+D
-- 🌱 I’m currently learning Geospatial Technologies
+- 🔭 I’m currently working on Data Science and Analysis projects
+- 🌱 I recently finished a MSc. in  Geospatial Technologies
 - 👯 I’m looking to collaborate on data processing and analysis projects
 - 💼 My personal website: [portfolio](https://rodrigomalagon.github.io/portfolio/)
 - 😄 Pronouns: he/him
